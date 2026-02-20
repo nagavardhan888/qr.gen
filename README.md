@@ -12,5 +12,5 @@ Built to make sharing information quick and easy.
 ## Installation
 Clone the repository:
 ```bash
-git clone https://github.com/your-username/qr.gen.git
+https://nagavardhan888.github.io/qr.gen/
 ```
